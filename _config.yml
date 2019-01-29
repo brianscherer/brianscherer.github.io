@@ -7,9 +7,10 @@ baseurl:     ""
 url:         "https://brianscherer.github.io"
 date_format: "%b %-d, %Y"
 header_pages:
+ - title: Test
+   url: https://brianscherer.github.io
  - datascience.md
  - music.md
- - index.html
  - about.md
 # - contact.html
 
