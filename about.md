@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About
+title: about
 permalink: /about/
-tags: 
+tags: about
 ---
 
 This blog presents, mostly, technical topics in applied mathematics, computer science and physics. 
