@@ -1,7 +1,7 @@
 ---
 layout: default
-title: datascience
-permalink: https://brianscherer.github.io/
+title: datascience blog
+permalink: /datascience/
 tags: datascience
 ---
 
