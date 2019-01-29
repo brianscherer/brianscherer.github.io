@@ -1,4 +1,4 @@
-![](https://github.com/brianscherer/brianscherer.github.io/blob/master/images/me.jpeg "Logo Title Text 1")
+![](images/me.jpeg)
 
 Hi there. 
 
