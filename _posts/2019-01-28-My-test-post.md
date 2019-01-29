@@ -1,4 +1,4 @@
-![](https://github.com/brianscherer/brianscherer.github.io/blob/master/images/me.jpegimages/me.jpeg)
+![testimage](https://github.com/brianscherer/brianscherer.github.io/blob/master/images/me.jpeg)
 
 Hi there. 
 
