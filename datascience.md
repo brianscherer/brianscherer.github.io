@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Datascience
+title: datascience
 permalink: /datascience/
 tags: datascience
 ---
