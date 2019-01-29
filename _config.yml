@@ -9,7 +9,7 @@ date_format: "%b %-d, %Y"
 header_pages:
  - datascience.md
  - music.md
- -index.html
+ - index.html
  - about.md
 # - contact.html
 
