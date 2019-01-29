@@ -1,6 +1,6 @@
 ---
 layout: page
-title: datascience
+title: Datascience
 permalink: /datascience/
 tags: datascience
 ---
