@@ -8,6 +8,7 @@ url:         "https://brianscherer.github.io"
 date_format: "%b %-d, %Y"
 header_pages:
  - datascience.md
+ - music.md
  - about.md
 # - contact.html
 
