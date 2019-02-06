@@ -17,4 +17,4 @@ tags: tutorial, links
 * Google's [style guide](http://google.github.io/styleguide/pyguide.html).
 
 ### Stochastic error modeling
-* 
+* [Applied Optimal Estimation](http://users.isr.ist.utl.pt/~pjcro/temp/Applied%20Optimal%20Estimation%20-%20Gelb.pdf)
