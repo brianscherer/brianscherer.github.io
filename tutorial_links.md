@@ -1,8 +1,8 @@
 ---
 layout: default
-title: reading
-permalink: /reading/
-tags: reading
+title: tutorial
+permalink: /tutorial_links/
+tags: tutorial, links
 ---
 
 ### Git
@@ -10,7 +10,7 @@ tags: reading
 
 ### Linear algebra
 * 3blue1brown's Essence of Linear Algebra [youtube series](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab).
-* Carol Ash's linear algebra [notes](https://faculty.math.illinois.edu/~ash/LinearAlg.html).
+* Carol Ash's linear algebra [notes](https://faculty.math.illinois.edu/~ash/LinearAlg.html) (also see Robert Ash's [page](https://faculty.math.illinois.edu/~r-ash/).
 
 ### Python style guides
 * [PEP 8](https://www.python.org/dev/peps/pep-0008/).
