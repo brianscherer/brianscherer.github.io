@@ -5,9 +5,6 @@ permalink: /reading/
 tags: reading
 ---
 
-# Recommended reading
-This is a running list of reading material that I recommend for various topics. These sources are ones I find that are well written, or provide 
-
 ### Git
 * Seth Robertson's [best practices](http://sethrobertson.github.io/GitBestPractices/).
 
@@ -19,5 +16,5 @@ This is a running list of reading material that I recommend for various topics. 
 * [PEP 8](https://www.python.org/dev/peps/pep-0008/)
 * Google's [style guide](http://google.github.io/styleguide/pyguide.html)
 
-### Stochastic modeling
-* hey
+### Stochastic error modeling
+* 
