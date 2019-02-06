@@ -5,7 +5,7 @@ permalink: /tutorial_links/
 tags: tutorial, links
 ---
 
-# Links to tutorials:
+## Useful tutorials and introductory material:
 
 ### Git
 * Seth Robertson's [best practices](http://sethrobertson.github.io/GitBestPractices/).
