@@ -1,11 +1,11 @@
 ---
 layout: default
-title: tutorial
-permalink: /tutorial_links/
-tags: tutorial, links
+title: links
+permalink: /links/
+tags: links
 ---
 
-## Useful tutorials and introductory material:
+# Useful links:
 
 ### Git
 * Seth Robertson's [best practices](http://sethrobertson.github.io/GitBestPractices/).
