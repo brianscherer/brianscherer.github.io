@@ -5,8 +5,6 @@ permalink: /links/
 tags: links
 ---
 
-# Useful links:
-
 ### Git
 * Seth Robertson's [best practices](http://sethrobertson.github.io/GitBestPractices/).
 
