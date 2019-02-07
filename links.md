@@ -15,7 +15,7 @@ tags: links
     * [Google's pyguide](http://google.github.io/styleguide/pyguide.html).
 
 ### Software development
-* Seth Robertson's [Git best practices](http://sethrobertson.github.io/GitBestPractices/).
+* [Git best practices](http://sethrobertson.github.io/GitBestPractices/) by Seth Robertson.
 
 ### Stochastic error modeling
 * [Applied Optimal Estimation](http://users.isr.ist.utl.pt/~pjcro/temp/Applied%20Optimal%20Estimation%20-%20Gelb.pdf)
