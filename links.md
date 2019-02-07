@@ -10,9 +10,7 @@ tags: links
 * Carol Ash's linear algebra [notes](https://faculty.math.illinois.edu/~ash/LinearAlg.html) (also see Robert Ash's [webpage](https://faculty.math.illinois.edu/~r-ash/) for more math books/notes).
 
 ### Python
-* style guides:
-    * [PEP 8](https://www.python.org/dev/peps/pep-0008/)
-    * [Google's pyguide](http://google.github.io/styleguide/pyguide.html).
+* style guides: [PEP 8](https://www.python.org/dev/peps/pep-0008/), [Google's pyguide](http://google.github.io/styleguide/pyguide.html).
 
 ### Software development
 * [Git best practices](http://sethrobertson.github.io/GitBestPractices/) by Seth Robertson.
