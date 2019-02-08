@@ -12,7 +12,7 @@ tags: links
 
 ### Linear algebra
 * 3blue1brown's "Essence of Linear Algebra" [youtube series](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab).
-* Carol Ash's linear algebra [notes](https://faculty.math.illinois.edu/~ash/LinearAlg.html) (also see Robert Ash's [webpage](https://faculty.math.illinois.edu/~r-ash/) for more math books/notes).
+* Carol Ash's linear algebra [notes](https://faculty.math.illinois.edu/~ash/LinearAlg.html)(also see Robert Ash's [webpage](https://faculty.math.illinois.edu/~r-ash/)).
 
 ### Machine learning:
 * PCA limitations: 
