@@ -7,7 +7,7 @@ tags: links
 
 ### Deep learning
 * Notes:  
-* Criticism:
+* Limitations:
 * Reviews:
 
 ### Linear algebra
