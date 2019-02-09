@@ -6,7 +6,7 @@ tags: links
 ---
 
 ### Deep learning
-* Courses/MOOCs:
+* Notes:  
 * Criticism:
 * Reviews:
 
