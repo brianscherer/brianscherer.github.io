@@ -7,7 +7,7 @@ tags: links
 
 ### Deep learning
 * Notes:  
-* Limitations:
+* Limitations: [Marcus](https://arxiv.org/abs/1801.00631)
 * Reviews:
 
 ### Linear algebra
