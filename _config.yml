@@ -9,8 +9,8 @@ date_format: "%b %-d, %Y"
 header_pages:
  - blog.md
  #- links.md
- - Opinions
- - Tutorials
+ - opinions.md
+ - tutorials.md
  - about.md
 
 # Google services
