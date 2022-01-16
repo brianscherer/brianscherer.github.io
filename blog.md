@@ -1,6 +1,6 @@
 ---
 layout: default
-title: home
+title: blog
 permalink: /blog/
 redirect_to:
  - https://brianscherer.io
