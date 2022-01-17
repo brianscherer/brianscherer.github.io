@@ -8,7 +8,7 @@ url:         "https://brianscherer.github.io"
 date_format: "%b %-d, %Y"
 header_pages:
  #- blog.md
- - tutorials.md
+ - writing.md
  - about.md
 
 # Google services
