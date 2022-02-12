@@ -1,4 +1,4 @@
-![image](/assets/images/me.jpeg)
+![image](/assets/images/headshot.jpg)
 
 Hi there. 
 
