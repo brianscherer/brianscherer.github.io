@@ -1,4 +1,4 @@
-![image](www.brianscherer.github.io/assets/images/me.jpeg)
+![image](/assets/images/me.jpeg)
 
 Hi there. 
 
