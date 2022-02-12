@@ -3,7 +3,7 @@ title:       Brian Scherer
 email:       snowdirt7@gmail.com
 author:      Brian J. Scherer
 description: "My personal website."
-baseurl:     /brianscherer.github.io
+baseurl:     ""
 url:         "https://brianscherer.github.io"
 date_format: "%b %-d, %Y"
 header_pages:
