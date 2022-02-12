@@ -1,4 +1,4 @@
-![desk](images/me.jpg)
+![desk](/images/me.jpg)
 
 Hi there. 
 
