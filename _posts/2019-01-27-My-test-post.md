@@ -1,4 +1,4 @@
-![image](/assets/images/me.jpg)
+![image](./assets/images/me.jpg)
 
 Hi there. 
 
