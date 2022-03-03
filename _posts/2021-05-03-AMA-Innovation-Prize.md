@@ -1,6 +1,6 @@
 ---
 layout: post
-title: We won the AMA Innovation Prize!
+title: We won the AMA Innovation Prize
 ---
 We won the 2021 AMA Innovation Prize for bringing new gas sensing capabilities to conventional 
 semiconducting metal oxide materials.
