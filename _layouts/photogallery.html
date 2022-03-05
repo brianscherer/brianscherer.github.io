@@ -1,3 +1,17 @@
+---
+layout: default
+title: Photo Gallery Test
+permalink: /photogallerytest/
+images:
+  - image_path: /asssets/images/headshot.jpg
+    title: image1
+  - image_path: /asssets/images/headshot.jpg
+    title: image2
+  - image_path: /asssets/images/headshot.jpg
+    title: image3
+  - image_path: /asssets/images/headshot.jpg
+    title: image4
+---
 <ul class="photogallery">
     {% for image in page.assets.images %}
       <li><img src="{{ image.image_path }}" alt="{{ image.title}}"/></li>
