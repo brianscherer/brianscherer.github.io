@@ -10,7 +10,7 @@ images:
   - image_path: /assets/images/headshot.jpg
     title: image4
 ---
-<ul class="photogallery">
+<ul class="photo-gallery">
     {% for image in page.images %}
       <li><img src="{{ image.image_path }}" alt="{{ image.title}}"/></li>
     {% endfor %}
