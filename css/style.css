@@ -219,7 +219,7 @@ input[type="submit"] {
 }
 
 .photo-gallery li {
-	display: inline-block;
+	display: grid;
 	width: 33%;
 }
 
