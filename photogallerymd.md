@@ -5,7 +5,7 @@ permalink: /photogallerytest/
 images:
   - image_path: /assets/images/headshot.jpg
     title: image1
-  - image_path: /assets/images/headshot.jpg
+  - image_path: /assets/images/predictions.png
     title: image2
   - image_path: /assets/images/headshot.jpg
     title: image3
