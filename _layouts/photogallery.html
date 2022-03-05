@@ -1,7 +1,18 @@
 ---
 layout: default
 ---
-<ul>
+<head>
+  <style>
+  ul.photogallery {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  </style>
+  </head>
+  <body>
+
+<ul class="photogallery">
     {% for image in page.images %}
       <li><img src="{{ image.image_path }}" alt="{{ image.title}}"/></li>
     {% endfor %}
