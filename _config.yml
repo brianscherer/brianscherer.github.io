@@ -1,6 +1,6 @@
 # Site settings
 title:       Brian Scherer
-email:       snowdirt7@gmail.com
+email:       
 author:      Brian J. Scherer
 description: "My personal website."
 baseurl:     ""
@@ -8,7 +8,7 @@ url:         "https://brianscherer.github.io"
 date_format: "%b %-d, %Y"
 header_pages:
  #- blog.md
- - writing.md
+ - notes.md
  - about.md
 
 # Google services

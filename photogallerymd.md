@@ -12,3 +12,5 @@ images:
   - image_path: /assets/images/thumbnails/me.jpg
     title: image4
 ---
+
+Here are some of my favorite photos, enjoy!
